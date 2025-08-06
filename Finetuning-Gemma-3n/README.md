@@ -56,12 +56,13 @@ pip install -r requirements.txt
  - Merge the adapters with the base model and save the final, deployable model in `models/empowered-gemma-3n-2b-merged`.
  
  ---
+  **Fine Tuning Steps**
  ![Gemma-3n-Fine-Tuning-Steps](../docs/Gemma-3n-Fine-Tuning-Steps.png)
  
- **Fine Tuning Steps**
  ---
+  **LoRA Adapter**
  ![Fine-Tune-LoRA-Adapter](../docs/Fine-Tune-LoRA-Adapter.png)
- **LoRA Adapter**
+
  ---
- ![LoRA-Adpters-Merged-Base-Gemma-3n](../docs/LoRA-Adpters-Merged-Base-Gemma-3n.png)
  **Fine Tuned Model, merged with adapters**
+ ![LoRA-Adpters-Merged-Base-Gemma-3n](../docs/LoRA-Adpters-Merged-Base-Gemma-3n.png)
