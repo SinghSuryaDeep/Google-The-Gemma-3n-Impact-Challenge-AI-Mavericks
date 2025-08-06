@@ -1,0 +1,11 @@
+{
+  "disabilities": [
+    "Dyslexia",
+    "ADHD"
+  ],
+  "reading_speed": "slow",
+  "audio_preference": true,
+  "visual_preference": "dyslexia-friendly",
+  "attention_span": 10,
+  "learning_style": "visual"
+}
