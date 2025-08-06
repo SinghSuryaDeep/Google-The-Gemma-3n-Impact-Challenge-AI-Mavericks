@@ -12,7 +12,7 @@ This repository contains the code and configuration for fine-tuning the **Gemma-
 
 ### Fine-tuning Process
 
-The project uses a custom dataset of educational prompts and specialized responses to fine-tune the Gemma-3n 2B model. We employ the **PEFT (Parameter-Efficient Fine-Tuning)** with **LoRA (Low-Rank Adaptation)** to efficiently train the model without requiring extensive computational resources. The code is optimized for compatibility with M1/M2 Macs using the MPS backend.
+The project uses a custom dataset of educational prompts and specialized responses to fine-tune the Gemma-3n 2B model. We employ the **PEFT (Parameter-Efficient Fine-Tuning)** with **LoRA (Low-Rank Adaptation)** to efficiently train the model without requiring extensive computational resources. 
 
 ### Project Structure
 
@@ -37,17 +37,17 @@ pip install -r requirements.txt
 
 ### Usage
 
-1.  **Run the Fine-tuning Script:**
+**Run the Fine-tuning Script:**
 
-    ```bash
-    python finetune_Gemma_3n_LLM.py
-    ```
+   ```bash
+   python finetune_Gemma_3n_LLM.py
+   ```
 
-    This script will:
+   This script will:
 
-      - Download and load the `google/gemma-3n-E2B` model and tokenizer.
-      - Prepare the model for k-bit training and apply the LoRA configuration.
-      - Load the training data from `data/empowered_training_examples.json`.
-      - Start the fine-tuning process.
-      - Save the trained LoRA adapters in `models/empowered-gemma-3n-2b`.
-      - Merge the adapters with the base model and save the final, deployable model in `models/empowered-gemma-3n-2b-merged`.
+ - Download and load the `google/gemma-3n-E2B` model and tokenizer.
+ - Prepare the model for k-bit training and apply the LoRA configuration.
+ - Load the training data from `data/empowered_training_examples.json`.
+ - Start the fine-tuning process.
+ - Save the trained LoRA adapters in `models/empowered-gemma-3n-2b`.
+ - Merge the adapters with the base model and save the final, deployable model in `models/empowered-gemma-3n-2b-merged`.
