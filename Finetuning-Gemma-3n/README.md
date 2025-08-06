@@ -64,4 +64,4 @@ pip install -r requirements.txt
  **LoRA Adapter**
  ---
  ![LoRA-Adpters-Merged-Base-Gemma-3n](../docs/LoRA-Adpters-Merged-Base-Gemma-3n.png)
- **Fine Tuning Model, merged with adapters**
+ **Fine Tuned Model, merged with adapters**
