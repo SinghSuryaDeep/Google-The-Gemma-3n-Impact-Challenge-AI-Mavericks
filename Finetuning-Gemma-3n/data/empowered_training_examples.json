@@ -1,0 +1,188 @@
+[
+  {       
+    "instruction": "Explain how a compass works for a student with ADHD.",
+    "output": "**What is a Compass? (Simple Version)**\n\nA compass is a tool that helps us know which direction we're going.\n- It has a needle that points to the **north** 🔝\n- The needle always points north, no matter where you are 🌍\n- You can use it to figure out which way is north, south, east, or west 🧭"
+    },
+    {
+    "instruction": "Simplify the process of making ice cream for a student with sensory processing issues.",
+    "output": "**🍦 How to Make Ice Cream - Step by Step**\n\n**What you'll need:**\n- Ice cream mix 🥛\n- Ice 🧊\n- Salt 🧂\n- A big bag to shake 🎒\n\n**Step 1:** Put the ice cream mix in a small bag 🧳\n**Step 2:** Put ice and salt in a big bag 🛍️\n**Step 3:** Place the small bag into the big bag 🛍️\n**Step 4:** Shake the bag for 10 minutes 🏃‍♂️\n**Step 5:** Open and enjoy your ice cream! 🍨"
+    },
+    {
+    "instruction": "Give an easy explanation of gravity for a student with learning difficulties.",
+    "output": "**What is Gravity? (Simple Version)**\n\nGravity is a force that pulls things down to the ground.\n- When you drop something, it falls because of gravity 🍎\n- Gravity keeps us on the ground and stops us from floating away 🚀"
+    },
+    {
+    "instruction": "Explain how to organize a school binder for a student with autism who likes routines.",
+    "output": "**📒 Organizing Your School Binder - Easy Steps**\n\n**Step 1:** Get your binder and labels 📑\n- Put labels for each subject: Math, English, Science, etc.\n\n**Step 2:** Place your papers in the right sections\n- Math papers go in the Math section 📚\n- Science papers go in the Science section 🔬\n\n**Step 3:** Keep it clean\n- Add new papers at the front\n- Take out old papers to stay organized 🧹"
+    },
+    {
+    "instruction": "Make this math problem easier to understand for a student with ADHD: 'If Tim has 12 apples and gives 5 to his friend, how many apples does he have left?'",
+    "output": "**🍎 Apple Math - Step by Step**\n\n**What we know:**\n- Tim has 12 apples 🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏\n- He gives 5 apples to his friend 🍏🍏🍏🍏🍏\n\n**What we need to find:**\n- How many apples are left?\n\n**Step 1:** Start with 12 apples\n**Step 2:** Take away 5 apples\n**Step 3:** Count what's left\n- 12 - 5 = 7 apples 🍏🍏🍏🍏🍏🍏🍏\n\n**Answer:** Tim has 7 apples left!"
+    },
+    {
+    "instruction": "Help me understand how to tie my shoes for a student with ADHD.",
+    "output": "**👟 How to Tie Your Shoes - Simple Steps**\n\n**Step 1:** Cross the laces\n- Make an 'X' with the laces\n**Step 2:** Tuck one lace under the other\n- Pull the lace through the hole you made 🪢\n**Step 3:** Make bunny loops 🐰\n- Make two loops with the laces\n**Step 4:** Cross the loops\n- Tie the loops together to make a bow 🎀"
+    },
+    {
+    "instruction": "Simplify the concept of a fraction for a student with intellectual disabilities.",
+    "output": "**What is a Fraction? (Simple Version)**\n\nA fraction shows part of something.\n- A fraction has two numbers: one on top and one on the bottom.\n- The top number tells how many parts you have.\n- The bottom number tells how many parts the whole thing is divided into.\n\n**Example:**\n- If you eat 1 out of 2 cookies, that’s 1/2 🍪"
+    },
+    {
+    "instruction": "Make this science explanation easier for a student with dyslexia: 'Photosynthesis is the process by which plants convert light energy into chemical energy, which is used to create food for the plant.'",
+    "output": "**What is Photosynthesis? (Simple Version)**\n\n**Photosynthesis** is how plants make their food.\n- Plants use **sunlight** 🌞, **water** 💧, and **air** 🌬️\n- They turn sunlight into food for themselves 🍃\n\n**Why is it important?**\n- Without photosynthesis, plants couldn’t grow! 🌱"
+    },
+    {
+    "instruction": "Break down this history concept for a student with ADHD: 'The American Revolution was a war fought between the 13 colonies and Great Britain from 1775 to 1783.'",
+    "output": "**The American Revolution - Bite-Sized Pieces**\n\n**What was it?**\n- It was a war between the **13 colonies** in America 🇺🇸 and **Great Britain** 🇬🇧\n\n**When?**\n- The war happened from **1775 to 1783** 📅\n\n**Why?**\n- The colonies wanted more freedom from Britain!\n\n**End result:**\n- The colonies won and became the **United States of America** 🎉"
+    },
+    {
+    "instruction": "Describe how to wash your hands properly for a student with sensory processing needs.",
+    "output": "**🚰 How to Wash Your Hands - Step by Step**\n\n**Step 1:** Turn on the water 💦\n- Make sure it's not too hot or too cold 🌡️\n\n**Step 2:** Put soap on your hands 🧼\n- Rub your hands together to make bubbles 🫧\n\n**Step 3:** Scrub for 20 seconds ⏱️\n- Clean the front, back, and between your fingers\n\n**Step 4:** Rinse off the soap 💧\n\n**Step 5:** Dry your hands with a towel or air dryer 💨"
+    },
+    {
+    "instruction": "Give a simple explanation of a volcano for a student with intellectual disabilities.",
+    "output": "**What is a Volcano? (Simple Version)**\n\nA **volcano** is a mountain that can **explode** 🔥💥.\n- Inside the volcano is **melted rock** called **lava**\n- When the volcano erupts, the lava comes out of the top\n- Lava can flow down the mountain and can be very hot 🌋"
+    },
+    {
+    "instruction": "Explain how to make a paper airplane for a student with autism who needs structured instructions.",
+    "output": "**✈️ How to Make a Paper Airplane - Step by Step**\n\n**What you'll need:**\n- A piece of paper 📄\n\n**Step 1:** Fold the paper in half longways 🖋️\n- Line up the edges and crease the fold\n\n**Step 2:** Fold the top corners down to the center crease 🔲\n- This makes a triangle at the top\n\n**Step 3:** Fold the edges to the center again 📐\n- Make the wings of the airplane\n\n**Step 4:** Fold the airplane in half again 🎳\n- Now it’s ready to fly!\n\n**Step 5:** Throw your airplane and watch it soar! 🚀"
+    },
+    {
+    "instruction": "Describe the parts of a plant for a student with dyslexia.",
+    "output": "**Parts of a Plant (Easy Version)**\n\n1. **Roots:**\n- The part that is in the ground 🌱\n- They hold the plant in place and get water\n\n2. **Stem:**\n- The tall part of the plant 🌾\n- It holds the leaves up to the sunlight\n\n3. **Leaves:**\n- The flat parts that catch sunlight ☀️\n- Leaves help the plant make food\n\n4. **Flower:**\n- The colorful part that makes seeds 🌸"
+    },
+    {
+    "instruction": "Make the following sentence easier for a student with intellectual disabilities: 'Oceans are large bodies of salt water that cover about 71% of the Earth's surface.'",
+    "output": "**What are Oceans? (Simple Version)**\n\n**Oceans** are big bodies of water 🌊\n- They cover most of the Earth (about **71%**) 🌍\n- The water in oceans is **salty**"
+    },
+    {
+    "instruction": "Break down the steps for making a sandwich for a student with ADHD.",
+    "output": "**🥪 Make a Sandwich - Fast Steps**\n\n**Step 1:** Get your stuff\n- Bread 🍞\n- Peanut butter 🥜\n- Jelly 🍇 (optional)\n- Knife 🍴\n\n**Step 2:** Spread peanut butter\n- Open the peanut butter jar and spread it on one piece of bread\n\n**Step 3:** Add jelly (optional)\n- Spread jelly on the other slice of bread\n\n**Step 4:** Put the two pieces together\n- Press them gently to make a sandwich\n\n**Step 5:** Eat your sandwich! 🍽️"
+    },
+    {
+    "instruction": "Give a simple explanation of the water cycle for a student with ADHD.",
+    "output": "**What is the Water Cycle? (Simple Version)**\n\nThe water cycle is how water moves around the Earth 🌍💧\n1. **Evaporation:** Water turns into vapor and goes up into the air 🌫️\n2. **Condensation:** The vapor turns into clouds ☁️\n3. **Precipitation:** The clouds give back the water as rain 🌧️\n4. **Runoff:** The water goes back to rivers, lakes, and oceans 🌊"
+    },
+    {
+    "instruction": "Explain how to take turns in a game for a student with autism.",
+    "output": "**How to Take Turns in a Game (Simple Version)**\n\n**Step 1:** Wait for your turn 🕒\n- Watch the other player take their turn first\n\n**Step 2:** When it’s your turn, do your part 🧩\n- Play the game or make your move\n\n**Step 3:** After your turn, let the other person have their turn ⏱️\n\n**Step 4:** Keep going until the game is finished 🎮"
+    },
+    {
+    "instruction": "Give a simple instruction on how to brush your teeth for a student with ADHD.",
+    "output": "**How to Brush Your Teeth - Easy Steps**\n\n**Step 1:** Get your toothbrush and toothpaste 🪥\n**Step 2:** Squeeze a small amount of toothpaste on the brush\n**Step 3:** Brush the front, back, and top of your teeth 🦷\n**Step 4:** Brush for 2 minutes ⏱️\n**Step 5:** Rinse your mouth with water 💧"
+    },
+    {
+    "instruction": "Simplify this math concept for a student with intellectual disabilities: 'Multiplication is a way to add the same number many times.'",
+    "output": "**What is Multiplication? (Simple Version)**\n\nMultiplication is a shortcut for adding the same number over and over.\n- Example: 3 x 2 means **3 + 3 = 6**\n- It’s like grouping things in sets. 3 groups of 2 makes 6!"
+    },
+    {
+    "instruction": "Make this reading instruction easier for a student with dyslexia: 'When reading, pay attention to the punctuation marks to understand how the sentence should sound.'",
+    "output": "**How to Read Better - Easy Steps**\n\nWhen reading, look at the punctuation marks.\n- **Period (.)** means to stop\n- **Comma (,)** means to pause\n- **Question mark (?)** means it's a question\n- Punctuation helps you know how to say the words 🎤"
+    },
+    {
+    "instruction": "Help me understand how a plant grows for a student with autism.",
+    "output": "**How Does a Plant Grow? (Step by Step)**\n\n1. **Plant a seed** in the soil 🌱\n2. **Water** it and give it sunlight 🌞\n3. The seed starts to **sprout** and grow a tiny plant 🌿\n4. The plant gets bigger with more water and sun 🌳"
+    },
+    {
+    "instruction": "Help me understand this text about the water cycle. It's too dense: 'The water cycle describes the continuous movement of water on, above and below the surface of the Earth. It involves key processes like evaporation, condensation, precipitation, and collection.'",
+    "output": "Here's a simpler way to understand the water cycle:\n\n**The Water Cycle in Simple Steps**\n\n- **Step 1: Evaporation** ☀️\n  - The sun heats up water (from oceans, lakes, etc.)\n  - The water turns into a gas (water vapor) and rises into the air.\n\n- **Step 2: Condensation** ☁️\n  - The water vapor in the air gets cold and turns back into tiny liquid drops.\n  - These drops group together to form clouds.\n\n- **Step 3: Precipitation** 🌧️\n  - The clouds get full of water drops.\n  - The water falls back to Earth as rain, snow, or hail.\n\n- **Step 4: Collection** 💧\n  - The water that falls collects in rivers, lakes, oceans, or seeps into the ground.\n  - The cycle starts all over again!\n\n**Main Idea:** Water is always moving in a cycle from the ground to the sky and back down again. 
+
+    [Image of the water cycle]
+    "
+    },
+    {
+    "instruction": "I have trouble with reading comprehension. Can you help me summarize a paragraph in a way that's easy to remember? 'Bats are nocturnal mammals, which means they are active at night and sleep during the day. They are the only mammals capable of true and sustained flight, thanks to their unique wings which are made of a membrane of skin stretched over their elongated fingers.'",
+    "output": "**📝 Reading Summary - Bats**\n\n**What are bats?**\n- They are **mammals** (like humans and dogs)\n\n**When are they active?**\n- They are **nocturnal**, which means they are active at night 🌙\n- They sleep during the day 😴\n\n**What makes them special?**\n- They can **fly**! 🦇\n- They are the only mammals that can truly fly\n\n**How do they fly?**\n- They have **unique wings**\n- Their wings are made of skin stretched over their long fingers\n\n**Simple takeaway:** Bats are nocturnal, flying mammals with special wings. "
+    },
+    {
+    "instruction": "Create a lesson plan for a student with developmental delays about how to wash their hands properly.",
+    "output": "**👏 Hand Washing Lesson - Step by Step**\n\n**Objective:** Learn to wash hands to get rid of germs. 🧼\n\n**Materials:**\n- Sink with water\n- Soap (liquid or bar)\n- Towel\n\n**Step 1:** Turn on the water 💦\n- Use warm water (not too hot, not too cold)\n\n**Step 2:** Get your hands wet\n- Put your hands under the water\n\n**Step 3:** Get some soap\n- Use one pump of soap or rub the bar a few times\n\n**Step 4:** Rub your hands together 🤲\n- Make bubbles!\n- Wash the front, back, and between your fingers\n- Sing the 'Happy Birthday' song twice to make sure it's long enough! 🎶\n\n**Step 5:** Rinse your hands\n- Put your hands under the water again to wash the soap off\n\n**Step 6:** Turn off the water\n\n**Step 7:** Dry your hands\n- Use a towel to dry them completely\n\n**Good Job!** Your hands are clean now! ✨"
+    },
+    {
+    "instruction": "I have a student with autism who needs a structured way to handle disappointment. How can I help them?",
+    "output": "**Feeling Disappointed? A Guide to Help**\n\n**1. Identify the Feeling**\n- What happened? (e.g., 'I wanted to play with the toy, but someone else has it.')\n- Name the feeling: **\"I feel disappointed.\"** 😔\n- It's okay to feel this way. It's a normal feeling.\n\n**2. Take a Break**\n- Count to 5 slowly: 1, 2, 3, 4, 5\n- Take a deep breath: Inhale through your nose, exhale through your mouth. 🧘\n- Go to a quiet corner for a minute if you need to.\n\n**3. Find a Solution**\n- **Option A:** Wait your turn. Maybe you can play with the toy later.\n- **Option B:** Find another toy or activity. What else can you play with?\n- **Option C:** Talk to a grown-up for help if you need it.\n\n**4. Move On**\n- The feeling of disappointment will pass.\n- Focus on the next fun thing you can do!\n\n**Remember:** It's okay to be disappointed, but it's important to find a way to feel better. 😊"
+    },
+    {
+    "instruction": "Describe the main parts of a plant for a visual learner. 'A plant has roots, a stem, leaves, and flowers, each with a specific function to help the plant survive and grow.'",
+    "output": "**🌻 Visual Guide to a Plant**\n\n**Let's look at the main parts of a plant:**\n\n**1. The Roots** 👇\n- Where they are: Under the ground\n- What they do: They are like a drinking straw! They suck up **water** and **food** from the soil.\n- They also hold the plant in the ground.\n\n**2. The Stem** ⬆️\n- Where it is: Above the ground, connecting the roots and leaves\n- What it does: It's like a highway! It carries the water and food from the roots up to the rest of the plant.\n\n**3. The Leaves** 🍃\n- Where they are: Attached to the stem\n- What they do: They are like a kitchen! They use sunlight, air, and water to make **food** for the plant.\n\n**4. The Flower** 🌸\n- Where it is: At the top of the plant\n- What it does: It helps the plant make seeds to create new plants!\n\n**Big Picture:** All the parts work together to help the plant grow big and strong. 
+
+    [Image of a plant with labels for roots, stem, leaves, and flower]
+    "
+    },
+{
+    "instruction": "I need help understanding fractions. Can you use a practical example to explain '1/2' and '1/4'?",
+    "output": "**🍕 Fun with Fractions!**\n\n**Let's use a pizza to learn!**\n\n**What is a whole?**\n- This is one whole pizza. 🍕\n\n**What is 1/2 (one-half)?**\n- Imagine you cut the pizza into **two equal parts**.\n- Each part is **one-half** (1/2).\n- If you eat one part, you ate 1/2 of the pizza.\n- One-half is a **bigger** slice than one-fourth.\n\n**What is 1/4 (one-quarter)?**\n- Now imagine you cut the pizza into **four equal parts**.\n- Each part is **one-quarter** (1/4).\n- If you eat one part, you ate 1/4 of the pizza.\n- One-quarter is a **smaller** slice than one-half.\n\n**Key idea:** The bigger the number on the bottom of the fraction, the smaller the piece is! The pizza is cut into more pieces. "
+    },
+    {
+    "instruction": "Create an easy-to-follow morning routine for a child who struggles with executive functioning and needs clear steps.",
+    "output": "**☀️ My Morning Routine Checklist**\n\n**Let's get ready for the day!**\n\n**Step 1:** Wake up and get out of bed. 🛌\n- Make your bed (or just pull up the covers).\n- Good job, you're up! ✅\n\n**Step 2:** Go to the bathroom.\n- Use the toilet.\n- Flush the toilet.\n- Wash your hands with soap. 🧼 ✅\n\n**Step 3:** Get dressed.\n- Pick out clothes for the day.\n- Put on your shirt, pants, and socks.\n- You are ready! ✅\n\n**Step 4:** Eat breakfast. 🥣\n- Go to the kitchen.\n- Eat your food completely.\n- Put your plate in the sink.\n- Yummy! ✅\n\n**Step 5:** Brush your teeth.\n- Get your toothbrush and toothpaste.\n- Brush for two minutes.\n- Smile! 😁 ✅\n\n**You did it!** Now you are ready for your day! 🌟"
+    },
+    {
+    "instruction": "I need a way to remember the order of the planets. Can you create a mnemonic device?",
+    "output": "**🌌 Remembering the Planets: A Fun Trick!**\n\n**The Planets in Order from the Sun are:**\n\n- **M**ercury\n- **V**enus\n- **E**arth\n- **M**ars\n- **J**upiter\n- **S**aturn\n- **U**ranus\n- **N**eptune\n\n**Here's a special sentence to help you remember the order:**\n\n**M**y **V**ery **E**ducated **M**other **J**ust **S**erved **U**s **N**oodles.\n\n**How it works:** The first letter of each word in the sentence matches the first letter of each planet in order!\n\n**Practice it a few times:**\n- My -> Mercury\n- Very -> Venus\n- Educated -> Earth\n- And so on...\n\n**Cool!** Now you know the order of the planets! 
+
+    [Image of the solar system with planets in order]
+    " 
+    },
+    {
+    "instruction": "Help me understand what a 'noun' is. I have trouble with grammar concepts.",
+    "output": "**What is a Noun?** 🗣️\n\n**A simple way to think about it:** A noun is a word that names a **person, place, thing, or idea.**\n\n**Let's break it down with examples:**\n\n**1. Person** 🧑\n- Words for people: **teacher, friend, boy, mom, Dr. Smith**\n\n**2. Place** 📍\n- Words for places: **school, park, kitchen, city, New York**\n\n**3. Thing** 🍎\n- Words for things: **ball, table, dog, book, computer**\n\n**4. Idea** 🤔\n- Words for ideas (things you can't touch): **happiness, love, freedom, sadness**\n\n**Let's look at a sentence:**\n- The **dog** ran to the **park** to play with the **girl**.\n- The nouns are: **dog** (thing), **park** (place), and **girl** (person).\n\n**Easy Rule:** If you can put the word 'the' in front of it, it's probably a noun! (e.g., 'the dog', 'the park').\n\n**Great job!** You're on your way to understanding grammar! 🌟"
+    },
+    {
+    "instruction": "Explain how to use a calendar for a student with ADHD.",
+    "output": "**How to Use a Calendar - Easy Steps**\n\n**Step 1:** Find today’s date on the calendar 📅\n- Look for the number that matches today\n\n**Step 2:** Look at the days of the week\n- Monday, Tuesday, Wednesday… 📆\n- This helps you know what day it is\n\n**Step 3:** Mark important dates\n- Use a sticker or circle important days 🎯\n\n**Step 4:** Plan your activities\n- Write down things you need to do each day 📝"
+    },
+    {
+    "instruction": "Break down the concept of a fraction for a student with autism who needs clear steps.",
+    "output": "**What is a Fraction? (Step by Step)**\n\n**Step 1:** A fraction is a way to show part of something 🍕\n\n**Step 2:** A fraction has two numbers: one on top and one on the bottom\n- The **top number** shows how many parts we have (like 1 piece)\n- The **bottom number** shows how many parts the whole is divided into (like 4 parts in a pizza)\n\n**Example:**\n- **1/4** means 1 part out of 4"
+    },
+    {
+    "instruction": "Give a simple explanation of the seasons for a student with intellectual disabilities.",
+    "output": "**What are the Seasons? (Simple Version)**\n\nThere are **4 seasons** in a year 🌱🌞🍂❄️:\n\n**1. Spring:**\n- Weather is warm 🌸\n- Flowers bloom 🌼\n\n**2. Summer:**\n- It gets hot 🌞\n- People go swimming 🏊‍♂️\n\n**3. Fall (Autumn):**\n- Leaves turn colors and fall 🍁\n- It starts to get cooler 🍂\n\n**4. Winter:**\n- The weather is cold ❄️\n- Sometimes it snows ☃️"
+    },
+    {
+    "instruction": "Simplify how to play a board game for a student with autism who enjoys routines.",
+    "output": "**How to Play a Board Game - Easy Instructions**\n\n**Step 1:** Set up the game\n- Put the board on the table and gather the pieces 🎲\n\n**Step 2:** Take turns\n- Roll the dice and move your piece\n- Wait for your turn 🕒\n\n**Step 3:** Follow the rules\n- Do what the game tells you to do, like picking cards or answering questions\n\n**Step 4:** Finish the game\n- The first person to reach the goal wins! 🎉"
+    },
+    {
+    "instruction": "Make a simple explanation of a clock for a student with ADHD.",
+    "output": "**What is a Clock? (Simple Version)**\n\nA clock helps us know the time ⏰.\n- The **big hand** shows minutes\n- The **small hand** shows hours\n\n**Example:**\n- If the small hand is on 3 and the big hand is on 12, it’s 3:00! 🕒"
+    },
+    {
+    "instruction": "Help me understand the steps of brushing my hair for a student with ADHD.",
+    "output": "**How to Brush Your Hair - Easy Steps**\n\n**Step 1:** Get your hairbrush or comb 🧴\n**Step 2:** Start at the bottom of your hair\n- Brush the tips gently to remove tangles 🌀\n**Step 3:** Work your way up to the top\n**Step 4:** Brush the top of your hair to make it smooth 🪞"
+    },
+    {
+    "instruction": "Explain how to make a fruit salad for a student with sensory processing needs.",
+    "output": "**How to Make a Fruit Salad - Simple Version**\n\n**Step 1:** Pick your fruit 🍓🍍🍇\n- Choose fruits you like (apples, bananas, berries)\n**Step 2:** Cut the fruit into small pieces 🔪\n- Be careful with the knife! Use a spoon to scoop if needed 🍏\n**Step 3:** Mix the fruit together in a bowl 🍉\n**Step 4:** Enjoy your fruit salad! 🍽️"
+    },
+    {
+    "instruction": "Give a simple explanation of how the Earth orbits the sun for a student with intellectual disabilities.",
+    "output": "**What is the Orbit? (Simple Version)**\n\nThe Earth **orbits** around the **Sun** 🔄🌞.\n- This means Earth goes in a big circle around the Sun\n- The Earth doesn’t stop moving, it keeps going round and round\n- This is why we have days and years! ⏳"
+    },
+    {
+    "instruction": "Help me understand how to organize my desk for a student with ADHD.",
+    "output": "**How to Organize Your Desk - Easy Steps**\n\n**Step 1:** Clear everything off the desk 🧹\n- Take everything away so you can start fresh\n\n**Step 2:** Put your supplies in the right spots 🖊️\n- Pens and pencils in a cup or holder\n- Paper and notebooks in a drawer or on the side 📖\n\n**Step 3:** Keep only the essentials on the desk\n- Only keep what you use every day, like a computer, paper, and pens 🖥️📝"
+    },
+    {
+    "instruction": "Make the concept of addition easier for a student with dyslexia.",
+    "output": "**What is Addition? (Simple Version)**\n\nAddition is putting numbers together to make a bigger number.\n- **Example:** 3 + 2 = 5 🍎🍎🍎 + 🍎🍎 = 🍎🍎🍎🍎🍎\n- It’s like counting how many things you have when you add more!"
+    },
+    {
+    "instruction": "Break down the process of making a sandwich for a student with autism who likes structure.",
+    "output": "**How to Make a Sandwich - Step by Step**\n\n**Step 1:** Get your bread 🍞\n**Step 2:** Put peanut butter or any spread on one slice of bread 🥜\n**Step 3:** Put another slice of bread on top 🍞\n**Step 4:** Cut the sandwich into two pieces (optional) 🔪\n**Step 5:** Eat your sandwich 🥪"
+    },
+    {
+    "instruction": "Explain how to use scissors for a student with sensory processing needs.",
+    "output": "**How to Use Scissors - Easy Steps**\n\n**Step 1:** Hold the scissors with your thumb and fingers 🖐️\n- Put your thumb in the top hole and fingers in the bottom hole\n**Step 2:** Open and close the scissors 🏃‍♂️\n- Make sure to cut along the lines\n**Step 3:** Cut paper or other materials slowly, one little snip at a time ✂️"
+    },
+    {
+    "instruction": "Help me understand how to make a cup of tea for a student with ADHD.",
+    "output": "**How to Make Tea - Easy Steps**\n\n**Step 1:** Boil some water 🧋\n- Use a kettle or microwave to heat the water until it’s hot\n**Step 2:** Put the tea bag in a cup 🍵\n**Step 3:** Pour the hot water into the cup with the tea bag\n**Step 4:** Let the tea steep for a few minutes ⏳\n**Step 5:** Take out the tea bag and add sugar or milk if you like 🥄"
+    },
+    {
+    "instruction": "Make the concept of subtraction easier for a student with ADHD.",
+    "output": "**What is Subtraction? (Simple Version)**\n\nSubtraction is taking away numbers to make a smaller number.\n- **Example:** 5 - 2 = 3 🍎🍎🍎🍎🍎 - 🍎🍎 = 🍎🍎🍎\n- It’s like if you give some of your things to a friend!"
+    }
+]
+
