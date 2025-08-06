@@ -25,8 +25,8 @@ The project uses a custom dataset of educational prompts and specialized respons
 ├── data
 │   └── empowered_training_examples.json  # The curated training dataset
 ├── models
-│   ├── empowered-gemma-3n-2b           # Output directory for LoRA adapters
-│   └── empowered-gemma-3n-2b-merged    # Output directory for the merged model
+│   ├── empowered-gemma-3n-2b           # Output directory for LoRA adapters  (Check below: I have added the screen-shots of the model in the README.md file as the size of model is bigger than 100MB GitHub is not allowing my to upload file)
+│   └── empowered-gemma-3n-2b-merged    # Output directory for the merged model (Check below: I have added the screen-shots of the model in the README.md file as the size of model is bigger than 100MB GitHub is not allowing my to upload file)
 └── requirements.txt            # Python dependencies
 ```
 
