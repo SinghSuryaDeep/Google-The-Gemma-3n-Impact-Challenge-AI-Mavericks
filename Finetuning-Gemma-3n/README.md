@@ -57,7 +57,11 @@ pip install -r requirements.txt
  
  ---
  ![Gemma-3n-Fine-Tuning-Steps](../docs/Gemma-3n-Fine-Tuning-Steps.png)
+ 
+ **Fine Tuning Steps**
  ---
  ![Fine-Tune-LoRA-Adapter](../docs/Fine-Tune-LoRA-Adapter.png)
+ **LoRA Adapter**
  ---
  ![LoRA-Adpters-Merged-Base-Gemma-3n](../docs/LoRA-Adpters-Merged-Base-Gemma-3n.png)
+ **Fine Tuning Model, merged with adapters**
