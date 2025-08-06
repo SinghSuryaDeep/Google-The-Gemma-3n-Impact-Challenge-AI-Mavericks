@@ -2,6 +2,9 @@
 
 This repository contains the code and configuration for fine-tuning the **Gemma-3n 2B** model to create **EmpowerEd**, a specialized AI assistant for special needs education. EmpowerEd is designed to make learning more accessible and effective for students with a range of learning differences.
 
+### 🎥 Demo Video
+[**Watch the demo here →**](https://youtu.be/EW7DdGiynVE) See how Sarah, a 10-year-old with Dyslexia and ADHD, reads confidently for the first time using EmpowerEd.
+
 ### Features
 
   - **Text Simplification:** Transforms complex academic content into easy-to-read formats.
