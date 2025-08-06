@@ -18,7 +18,7 @@ The project uses a custom dataset of educational prompts and specialized respons
 
 ```
 .
-├── finetune.py               # The main fine-tuning script
+├── finetune_Gemma_3n_LLM.py              # The main fine-tuning script
 ├── data
 │   └── empowered_training_examples.json  # The curated training dataset
 ├── models
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 1.  **Run the Fine-tuning Script:**
 
     ```bash
-    python finetune.py
+    python finetune_Gemma_3n_LLM.py
     ```
 
     This script will:
