@@ -118,12 +118,7 @@ class EmpowerEdAssistant:
         return response['response']
     
     def visual_learning_aid(self, image, learning_objective):
-        """
-        🤖 AI HELPS HERE: Generates educational content based on learning objectives
-        - Creates structured learning materials
-        - Adapts explanation complexity
-        - Generates comprehension questions
-        """
+        
      
         temp_image_path = "temp_learning_image.png"
         try:
@@ -159,9 +154,7 @@ class EmpowerEdAssistant:
                 os.remove(temp_image_path)
     
     def create_visual_learning_content(self, image_description, learning_objective):
-        """
-        🤖 AI HELPS HERE: Creates comprehensive learning materials from image
-        """
+        
         prompt = f"""
         Create a special needs learning guide based on this image: {image_description}
         Learning objective: {learning_objective}
@@ -185,9 +178,7 @@ class EmpowerEdAssistant:
         return response['response']
     
     def generate_educational_content(self, learning_objective):
-        """
-        🤖 AI HELPS HERE: Creates engaging educational content from scratch
-        """
+        
         prompt = f"""
         Create an engaging educational guide for special needs students about: {learning_objective}
         
@@ -220,12 +211,7 @@ class EmpowerEdAssistant:
         return {"need_break": False}
         
     def multi_sensory_lesson(self, topic, disability_types):
-        """
-        🤖 AI HELPS HERE: Creates personalized, multi-sensory lesson plans
-        - Adapts content for specific disabilities
-        - Includes multiple learning modalities
-        - Structures content for optimal engagement
-        """
+        
         disabilities_text = ', '.join(disability_types) if disability_types else "general learning needs"
         
         prompt = f"""
@@ -273,9 +259,7 @@ class EmpowerEdAssistant:
         return response['response']
     
     def generate_comprehension_questions(self, text):
-        """
-        🤖 AI HELPS HERE: Creates appropriate comprehension questions
-        """
+        
         prompt = f"""
         Create 3 simple comprehension questions about this text:
         {text}
