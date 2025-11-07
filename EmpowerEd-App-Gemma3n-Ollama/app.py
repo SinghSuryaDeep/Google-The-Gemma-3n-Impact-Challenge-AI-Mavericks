@@ -123,12 +123,6 @@ class EmpowerEdAssistant:
         return response['response']
     
     def visual_learning_aid(self, image, learning_objective):
-        """
-        🤖 AI HELPS HERE: Generates educational content based on learning objectives
-        - Creates structured learning materials
-        - Adapts explanation complexity
-        - Generates comprehension questions
-        """
      
         temp_image_path = "temp_learning_image.png"
         try:
@@ -164,22 +158,7 @@ class EmpowerEdAssistant:
                 os.remove(temp_image_path)
     
     def create_visual_learning_content(self, image_description, learning_objective):
-        """
-        🤖 AI HELPS HERE: Creates comprehensive learning materials from image
-        """
-        prompt = f"""
-        Create a special needs learning guide based on this image: {image_description}
-        Learning objective: {learning_objective}
         
-        Include:
-        1. 📸 What We See (simple description)
-        2. 📚 Learning Points (3-5 bullet points)
-        3. 🌍 Real World Examples (2-3 examples)
-        4. ❓ Check Understanding (2 simple questions)
-        5. 🎨 Fun Activity (1 hands-on activity)
-        
-        Use very simple language and be encouraging!
-        """
         
         response = ollama.generate(
             model=self.fast_model,
@@ -190,21 +169,6 @@ class EmpowerEdAssistant:
         return response['response']
     
     def generate_educational_content(self, learning_objective):
-        """
-        🤖 AI HELPS HERE: Creates engaging educational content from scratch
-        """
-        prompt = f"""
-        Create an engaging educational guide for special needs students about: {learning_objective}
-        
-        Structure:
-        1. 🎯 What is {learning_objective}? (super simple explanation)
-        2. 📚 Key Things to Know (3-5 points with emojis)
-        3. 🌍 Where We See It (real-life examples)
-        4. ❓ Quick Check (2 yes/no questions)
-        5. 🎮 Fun Activity (something hands-on)
-        
-        Remember: Very simple language, lots of encouragement, use emojis!
-        """
         
         response = ollama.generate(
             model=self.fast_model,
@@ -225,49 +189,7 @@ class EmpowerEdAssistant:
         return {"need_break": False}
         
     def multi_sensory_lesson(self, topic, disability_types):
-        """
-        🤖 AI HELPS HERE: Creates personalized, multi-sensory lesson plans
-        - Adapts content for specific disabilities
-        - Includes multiple learning modalities
-        - Structures content for optimal engagement
-        """
-        disabilities_text = ', '.join(disability_types) if disability_types else "general learning needs"
         
-        prompt = f"""
-        Create a multi-sensory lesson plan for: {topic}
-        Student has: {disabilities_text}
-        
-        Structure the lesson with these sections:
-        
-        🎯 LESSON GOAL
-        - One clear, simple learning objective
-        
-        👀 VISUAL ACTIVITIES
-        - 2-3 things to look at or draw
-        - Simple, clear instructions
-        
-        👂 AUDIO ELEMENTS
-        - Sounds or songs related to {topic}
-        - Rhythm or rhyme to remember key facts
-        
-        🤸 MOVEMENT ACTIVITIES
-        - 2-3 physical activities
-        - Include "Simon Says" style games
-        
-        📝 SIMPLE EXPLANATIONS
-        - Key facts in 5 words or less
-        - Use comparisons to familiar things
-        
-        🎮 INTERACTIVE CHECKPOINTS
-        - "Show me" activities
-        - Yes/no understanding checks
-        
-        😴 SENSORY BREAKS
-        - When: every 5-7 minutes
-        - What: stretching, deep breathing, or quiet time
-        
-        Make everything super engaging and appropriate for {disabilities_text}!
-        """
         
         response = ollama.generate(
             model=self.accurate_model,
@@ -307,7 +229,7 @@ class EmpowerEdAssistant:
         return response['response']
     
     def generate_break_activity(self):
-        """Generate appropriate break activities"""
+        
         activities = [
             "🤸 Do 10 jumping jacks",
             "🎨 Draw your favorite animal",
@@ -322,12 +244,12 @@ class EmpowerEdAssistant:
         return np.random.choice(activities)
 
 def save_profile_to_file(profile_data):
-    """Save profile to JSON file for persistence"""
+    
     with open("student_profile.json", "w") as f:
         json.dump(profile_data, f, indent=2)
 
 def load_profile_from_file():
-    """Load profile from JSON file"""
+    
     try:
         with open("student_profile.json", "r") as f:
             return json.load(f)
@@ -335,7 +257,7 @@ def load_profile_from_file():
         return None
 
 def save_progress(topic, time_spent, quiz_score=None, activity_type="lesson"):
-    """Save learning progress"""
+    
     progress_entry = {
         "timestamp": datetime.now().isoformat(),
         "topic": topic,
@@ -362,7 +284,7 @@ def load_progress_history():
         return []
 
 def apply_visual_preferences(visual_mode):
-    """Apply visual preferences dynamically"""
+    
     if visual_mode == "Dyslexia-Friendly":
         st.markdown("""
         <style>
@@ -641,12 +563,7 @@ def create_ui():
     with tab4:
         progress_tracker_tab()
 def reading_helper_tab():
-    """
-    🤖 AI HELPS HERE: 
-    - Adapts text for different disabilities
-    - Simplifies complex content
-    - Generates comprehension questions
-    """
+    
     st.header("📚 Reading Helper")
     
     col1, col2 = st.columns([2, 1])
@@ -734,12 +651,7 @@ def reading_helper_tab():
                         engine.runAndWait()
 
 def visual_learning_tab():
-    """
-    🤖 AI HELPS HERE:
-    - Analyzes images (if vision model available)
-    - Creates educational content based on images
-    - Generates visual learning activities
-    """
+    
     st.header("🎨 Visual Learning")
     
     col1, col2 = st.columns(2)
@@ -796,12 +708,7 @@ def visual_learning_tab():
                     st.success("✅ Done!")
 
 def interactive_lessons_tab():
-    """
-    🤖 AI HELPS HERE:
-    - Creates personalized lesson plans
-    - Generates practice questions
-    - Adapts content for disabilities
-    """
+    
     st.header("🎯 Interactive Lessons")
     
     # Lesson creation
@@ -877,9 +784,7 @@ def interactive_lessons_tab():
             display_practice_interface()
 
 def generate_practice_questions(topic, difficulty, disabilities):
-    """
-    🤖 AI HELPS HERE: Generates adaptive practice questions
-    """
+    
     
     adaptations = []
     if "Visual Impairment" in disabilities:
@@ -1042,12 +947,7 @@ def display_practice_interface():
            st.experimental_rerun()
 
 def progress_tracker_tab():
-   """
-   🤖 AI HELPS HERE:
-   - Analyzes learning patterns
-   - Generates insights from progress data
-   - Creates personalized recommendations
-   """
+   
    st.header("📊 My Learning Journey")
    
    progress_history = load_progress_history()
@@ -1208,9 +1108,7 @@ def progress_tracker_tab():
            st.balloons()
 
 def generate_learning_insights(df, profile):
-   """
-   🤖 AI HELPS HERE: Analyzes data to generate personalized insights
-   """
+   
    insights = []
    
    total_time = df['time_spent'].sum()
@@ -1251,9 +1149,7 @@ def generate_learning_insights(df, profile):
    return insights[:3]  
 
 def generate_recommendations(df, profile):
-   """
-   🤖 AI HELPS HERE: Creates personalized learning recommendations
-   """
+   
    recommendations = []
    
    avg_session_time = df['time_spent'].mean()
